@@ -1,0 +1,12 @@
+{
+  "name": "search-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchBar.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/style.css -o ./public/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
